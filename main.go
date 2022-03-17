@@ -7,7 +7,7 @@ import (
 	"github.com/AbhiswasPatil/olscheduler/config"
 	"github.com/AbhiswasPatil/olscheduler/server"
 
-	"github.com/urfave/cli/v2"
+	"github.com/urfave/cli"
 )
 
 func createCliApp() *cli.App {
