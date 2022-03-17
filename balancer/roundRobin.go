@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/disel-espol/olscheduler/httputil"
-	"github.com/disel-espol/olscheduler/lambda"
-	"github.com/disel-espol/olscheduler/thread"
+	"github.com/AbhiswasPatil/olscheduler/httputil"
+	"github.com/AbhiswasPatil/olscheduler/lambda"
+	"github.com/AbhiswasPatil/olscheduler/thread"
 )
 
 type RoundRobin struct {

@@ -6,9 +6,9 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/disel-espol/olscheduler/balancer/worker"
-	"github.com/disel-espol/olscheduler/httputil"
-	"github.com/disel-espol/olscheduler/lambda"
+	"github.com/AbhiswasPatil/olscheduler/balancer/worker"
+	"github.com/AbhiswasPatil/olscheduler/httputil"
+	"github.com/AbhiswasPatil/olscheduler/lambda"
 
 	"github.com/lafikl/consistent"
 )

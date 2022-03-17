@@ -3,8 +3,8 @@ package config
 import (
 	"net/url"
 
-	"github.com/disel-espol/olscheduler/balancer"
-	"github.com/disel-espol/olscheduler/proxy"
+	"github.com/AbhiswasPatil/olscheduler/balancer"
+	"github.com/AbhiswasPatil/olscheduler/proxy"
 )
 
 // Config holds then configured values and objects to be used by the scheduler.

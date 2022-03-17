@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/disel-espol/olscheduler/balancer/worker"
+	"github.com/AbhiswasPatil/olscheduler/balancer/worker"
 )
 
 func createWorkerURLSlice(jsonSlice []string) []url.URL {

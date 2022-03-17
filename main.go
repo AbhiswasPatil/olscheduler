@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/disel-espol/olscheduler/client"
-	"github.com/disel-espol/olscheduler/config"
-	"github.com/disel-espol/olscheduler/server"
+	"github.com/AbhiswasPatil/olscheduler/client"
+	"github.com/AbhiswasPatil/olscheduler/config"
+	"github.com/AbhiswasPatil/olscheduler/server"
 
 	"github.com/urfave/cli/v2"
 )

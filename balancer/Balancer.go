@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/disel-espol/olscheduler/httputil"
-	"github.com/disel-espol/olscheduler/lambda"
+	"github.com/AbhiswasPatil/olscheduler/httputil"
+	"github.com/AbhiswasPatil/olscheduler/lambda"
 )
 
 type Balancer interface {
