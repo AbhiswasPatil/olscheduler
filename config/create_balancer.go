@@ -1,6 +1,6 @@
 package config
 
-import "github.com/disel-espol/olscheduler/balancer"
+import "github.com/AbhiswasPatil/olscheduler/balancer"
 
 func createBalancerFromConfig(c JSONConfig) balancer.Balancer {
 	switch c.Balancer {

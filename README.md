@@ -1,4 +1,4 @@
-# olscheduler [![CircleCI](https://circleci.com/gh/disel-espol/olscheduler.svg?style=svg)](https://circleci.com/gh/disel-espol/olscheduler)
+# olscheduler [![CircleCI](https://circleci.com/gh/AbhiswasPatil/olscheduler.svg?style=svg)](https://circleci.com/gh/AbhiswasPatil/olscheduler)
 
 Extensible scheduler for OpenLambda written in Go.
 
@@ -7,7 +7,7 @@ Extensible scheduler for OpenLambda written in Go.
 Once you have the Go runtime installed in your system just run:
 
 ``` bash
-go get github.com/disel-espol/olscheduler
+go get github.com/AbhiswasPatil/olscheduler
 ```
 
 ## Usage 
@@ -81,9 +81,9 @@ package main
 import (
 	"net/url"
 
-	"github.com/disel-espol/olscheduler/balancer"
-	"github.com/disel-espol/olscheduler/config"
-	"github.com/disel-espol/olscheduler/server"
+	"github.com/AbhiswasPatil/olscheduler/balancer"
+	"github.com/AbhiswasPatil/olscheduler/config"
+	"github.com/AbhiswasPatil/olscheduler/server"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/disel-espol/olscheduler/proxy"
+	"github.com/AbhiswasPatil/olscheduler/proxy"
 )
 
 // JSONConfig holds the data configured via a JSON file. This shall be used
