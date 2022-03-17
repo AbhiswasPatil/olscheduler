@@ -7,7 +7,7 @@ import (
 	"github.com/disel-espol/olscheduler/config"
 	"github.com/disel-espol/olscheduler/server"
 
-	"github.com/urfave/cli"
+	"github.com/urfave/cli/v2"
 )
 
 func createCliApp() *cli.App {
